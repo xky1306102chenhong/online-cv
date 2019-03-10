@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: 陈鸿
-    tagline: 求职意向:Java软件工程师
+    tagline: Java软件工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: chrischen@hnu.edu.cn
+    phone: +86 15574936675
+    website: www.chrischen.tk #do not add http://
     linkedin: alandoe
     github: sharu725
     gitlab:
